@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- Python/Djanog/Flask/Fastapi/Sql/Postgresql/pandas/excelwriter
+- Python/Django/Flask/Fastapi/Sql/Postgresql/pandas/excelwriter/Pyspark/Data Enginner/GEN AI/Data Analysis
 <!---
 Sankarguru123/Sankarguru123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
