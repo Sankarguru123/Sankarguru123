@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c87f176f-0950-4fbe-9d44-27c0a4975a28" />
 
 # 👋 Hi, I’m Sankar Jayaguru (@Sankarguru123)
 
