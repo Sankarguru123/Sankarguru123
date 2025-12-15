@@ -5,7 +5,7 @@
 - 🔍 Interested in **Data Engineering, ETL, Big Data, and Analytics**
 - 🌱 Currently working as a **Python Developer** with expertise in **PySpark, Advanced SQL, and Data Pipelines**
 - 💞️ Looking to collaborate on **Data Engineering Projects, ETL Frameworks, and Cloud-based Solutions**
-- 📫 Reach me at: **LinkedIn** | **Email: your.sankarguru63@gmail.com**
+- 📫 Reach me at: **LinkedIn** | **Email:sankarguru63@gmail.com**
 
 ---
 
